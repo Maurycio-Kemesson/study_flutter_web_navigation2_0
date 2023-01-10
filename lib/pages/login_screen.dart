@@ -45,9 +45,7 @@ class Login extends StatelessWidget {
                   const Padding(
                     padding: EdgeInsets.only(top: 60.0, bottom: 20),
                     child: Center(
-                      child: Flexible(
-                        child: FlutterLogo(size: 150),
-                      ),
+                      child: FlutterLogo(size: 150),
                     ),
                   ),
                   SizedBox(
